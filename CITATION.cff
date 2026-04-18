@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+title: "Spider Web Framework"
+authors:
+  - family-names: "Barry"
+    given-names: ""
+version: 1.0.0
+date-released: 2026-04-19
+url: https://github.com/skyelon/Spider-web-framework
+license: CC-BY-4.0
+abstract: >
+  A conceptual framework using the spider web metaphor to model 
+  interconnected, adaptive, and resilient systems in knowledge networks, 
+  social structures, and complex systems.
