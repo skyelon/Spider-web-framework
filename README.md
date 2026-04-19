@@ -43,8 +43,8 @@ You are free to:
 
 If you use this framework in your work, please cite:
 
-> Barry. (2026). Spider Web Framework. GitHub Repository. https://github.com/skyelon/Spider-web-framework
-
+> Barry. (2026). Spider Web Framework. Zenodo. 
+> https://doi.org/10.5281/zenodo.19646526
 ---
 
 **Created by:** Barry  
