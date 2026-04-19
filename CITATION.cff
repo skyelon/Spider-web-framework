@@ -6,6 +6,7 @@ authors:
 version: 1.0.0
 date-released: 2026-04-19
 url: https://github.com/skyelon/Spider-web-framework
+doi: 10.5281/zenodo.19646526
 license: CC-BY-4.0
 abstract: >
   A conceptual framework using the spider web metaphor to model 
