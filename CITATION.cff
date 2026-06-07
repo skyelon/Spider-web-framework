@@ -1,14 +1,26 @@
 cff-version: 1.2.0
-title: "Spider Web Framework"
+message: "If you use this framework in your research, please cite it as follows:"
+title: "Mental Footprint Reader (SE-1-BW-CTPF): A Cognitive Textual Profiling Framework"
 authors:
-  - family-names: "Barry"
-    given-names: ""
+  - family-names: "Wuwungan"
+    given-names: "Barry"
+    alias: "Sky Elon"
+    affiliation: "Independent Researcher"
+date-released: 2026-06-07
 version: 1.0.0
-date-released: 2026-04-19
-url: https://github.com/skyelon/Spider-web-framework
-doi: 10.5281/zenodo.19646526
-license: CC-BY-4.0
-abstract: >
-  A conceptual framework using the spider web metaphor to model 
-  interconnected, adaptive, and resilient systems in knowledge networks, 
-  social structures, and complex systems.
+url: "https://github.com/skyelon/spider-web-framework"
+repository-code: "https://github.com/skyelon/spider-web-framework"
+type: "software"
+license: "Apache-2.0"
+keywords:
+  - "psycholinguistics"
+  - "cognitive profiling"
+  - "text analysis"
+  - "mental footprint"
+  - "AI ethics"
+abstract: >-
+  The Mental Footprint Reader (SE-1-BW-CTPF) is a framework for reading mental footprints from short texts.
+  Based on Sky Elon's 2025 thought kernel, it analyzes five indicators: rhythm, emotional pressure,
+  word choice, consistency, and framing. The framework is descriptive, not diagnostic, and requires
+  sufficient data for analyzing others. It is designed for psychologists and the general public to
+  observe thinking patterns and emotional states from natural writing.
